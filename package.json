@@ -1,0 +1,21 @@
+{
+  "name": "kassicus-dark",
+  "displayName": "kassicus-dark",
+  "description": "Dark theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kassicus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kassicus Dark-color-theme.json"
+      }
+    ]
+  }
+}
